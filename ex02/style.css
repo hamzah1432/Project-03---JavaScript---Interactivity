@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#status-box {
+  padding: 15px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.active {
+  background-color: #4caf50;
+  color: white;
+  border-color: #2e7d32 !important;
+  font-weight: bold;
+}
